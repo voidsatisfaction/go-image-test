@@ -1,0 +1,10 @@
+hash: ccdb0af1cb398805a358878ca5c3597c622af1fb2f7326b68a13e1758ba24918
+updated: 2017-11-09T18:37:43.739299909+09:00
+imports:
+- name: github.com/BurntSushi/graphics-go
+  version: b43f31a4a96688fba0b612e25e22648b9267e498
+- name: github.com/nfnt/resize
+  version: 891127d8d1b52734debe1b3c3d7e747502b6c366
+- name: github.com/xor-gate/goexif2
+  version: f00bf380483f8b9fdcb73f8acee158e780166c4b
+testImports: []

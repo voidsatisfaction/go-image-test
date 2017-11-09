@@ -1,0 +1,6 @@
+package: exif-test
+import:
+- package: github.com/nfnt/resize
+- package: github.com/xor-gate/goexif2
+  version: v1.0.0
+- package: github.com/BurntSushi/graphics-go
