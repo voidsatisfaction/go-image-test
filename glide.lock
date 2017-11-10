@@ -1,10 +1,21 @@
-hash: ccdb0af1cb398805a358878ca5c3597c622af1fb2f7326b68a13e1758ba24918
-updated: 2017-11-09T18:37:43.739299909+09:00
+hash: e9c269c51695218bd7817300456e952aeef416829e73b2826f92822a973c2ba6
+updated: 2017-11-10T13:19:50.404709641+09:00
 imports:
 - name: github.com/BurntSushi/graphics-go
   version: b43f31a4a96688fba0b612e25e22648b9267e498
+- name: github.com/disintegration/imaging
+  version: dd50a3ee9985ccd313a2f03c398fcaedc96dc707
 - name: github.com/nfnt/resize
   version: 891127d8d1b52734debe1b3c3d7e747502b6c366
 - name: github.com/xor-gate/goexif2
   version: f00bf380483f8b9fdcb73f8acee158e780166c4b
+  subpackages:
+  - exif
+  - tiff
+- name: golang.org/x/image
+  version: f7e31b4ea2e3413ab91b4e7d2dc83e5f8d19a44c
+  subpackages:
+  - bmp
+  - tiff
+  - tiff/lzw
 testImports: []

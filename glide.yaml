@@ -4,3 +4,6 @@ import:
 - package: github.com/xor-gate/goexif2
   version: v1.0.0
 - package: github.com/BurntSushi/graphics-go
+- package: github.com/disintegration/imaging
+  version: v1.2.4
+- package: golang.org/x/image
